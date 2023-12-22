@@ -1,13 +1,13 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="" target="_blank">Anujkumar Yadav</a>
+  Portfolio Website<br/>
+  <a href="https://anujkumaryadav.vercel.app/" target="_blank">Anujkumar Yadav</a>
 </h2>
 
 <br/>
 
 ## Built With
 
-My personal portfolio <a href="" target="_blank">anujkumar.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://anujkumaryadav.vercel.app/" target="_blank">Anujkumar Yadav</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
