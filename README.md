@@ -1,13 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="" target="_blank">soumyajit.tech</a>
+  <a href="" target="_blank">Anujkumar Yadav</a>
 </h2>
 
 <br/>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/anujkumaryadav/portfolio-akyadav). Thanks!
 
 ## Built With
 
