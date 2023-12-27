@@ -2,8 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import education from "../../Assets/Projects/education.png";
+import clerance from "../../Assets/Projects/clerance.png";
 import skillflare from "../../Assets/Projects/skillflare.png";
 import dot from "../../Assets/Projects/dot.png";
 import embarkcv from "../../Assets/Projects/embarkcv.png";
@@ -22,7 +22,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={education}
               isBlog={false}
               title="LearnsX India"
               description="LearnsX India is an Sex Education platform developed for India where we talk about five phases like Anatomy, Sexual Transmitted Diseases, Reproduction, Contraception, Healthy Relationship. We team OJAS proposed this at Smart India Hackathon 2023 to AICTE - MIC, Student Innovation under Smart Education category. Currently in Development."
@@ -54,7 +54,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={clerance}
               isBlog={false}
               title="Student Clerance Management System"
               description="Student Clearance Management System for Bajaj Institute of Technology, Wardha"

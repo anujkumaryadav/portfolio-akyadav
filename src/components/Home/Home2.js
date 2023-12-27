@@ -1,9 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 import {
-  AiFillGithub,
+  AiFillGithub, 
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
@@ -22,33 +22,33 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am slightly sound amazing in
+              <br />I sound amazing in
               <i>
-                <b className="purple"> Javascript and Java. </b>
+                <b className="purple"> Frontend Development using Javascript, ReactJS. </b>
+                and am currently mastering the art of <b className="purple">NodeJS and ExpressJs,</b> always thirsty for more knowledge.
               </i>
               <br />
               <br />
-              My field of Interest's are build &nbsp;
+              My field of Interest's are&nbsp;
               <i>
-                <b className="purple">product, Innovate</b> and
-                Normalize {" "}
+                <b className="purple">product development, Innovation</b> and 
+                 {"  "}
                 <b className="purple">
-                  Sex Education.
+                  Education.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              💡 My mantra: <b className="purple">"Failure is an event, never a person."</b> 🌟 My ultimate goal - To be an 
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  entrepreneur crafting innovative products
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; that leave a lasting impact on society.
               <i>
-                <b className="purple"> React.js</b>
+                <b className="purple"> 💼 Let's create waves together! 🌊</b>
               </i>
             </p>
           </Col>

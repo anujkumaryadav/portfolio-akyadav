@@ -9,7 +9,6 @@ function Type() {
           "Aspiring Software Engineer",
           "Frontend Avenger",
           "Upcoming Full Stack Cyclone",
-          "Trying to be an Entrepreneur",
         ],
         autoStart: true,
         loop: true,
